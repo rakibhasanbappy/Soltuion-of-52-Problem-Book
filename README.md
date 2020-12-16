@@ -1,6 +1,6 @@
 Here I attached the solution of 52 Programming Probelm & Solution Book's.
 
-Book Name: 52 Programming Problem & Solution.
+Book Name: 52 Programming Problem & Solution. Link: https://www.rokomari.com/book/112234/52-programming-problem-and-solution
 
 Author: Tamim Shahriar Subeen, Tahmid Rafi, Tamanna Nishat Rini.
 
