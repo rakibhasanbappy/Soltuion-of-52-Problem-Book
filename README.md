@@ -4,7 +4,7 @@ Book Name: 52 Programming Problem & Solution. Link: https://www.rokomari.com/boo
 
 Author: Tamim Shahriar Subeen, Tahmid Rafi, Tamanna Nishat Rini.
 
-As the book is written in bangla, so I also write the name of the problem in bangla for your convenience. I solve the problems in C. In future, I will also try to solve the problems in Python and Java.
+As the book is written in bangla, so I also write the name of the problem in bangla for your convenience. I solve the problems in C and Python.
 
 I solve these problems in Dimik Online Judge. Link: https://dimikoj.com/
 
